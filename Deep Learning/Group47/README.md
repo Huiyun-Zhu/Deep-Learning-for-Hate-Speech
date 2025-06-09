@@ -8,6 +8,7 @@
 ---
 
 ## 📁 Project Structure
+```
 EE559-Group47/
 ├── README.md
 ├── code/
@@ -22,6 +23,7 @@ EE559-Group47/
     ├── result_build.png
     ├── result_compare.csv
     └── result_compare.png
+```
 
 ---
 
