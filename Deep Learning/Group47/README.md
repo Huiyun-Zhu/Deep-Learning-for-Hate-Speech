@@ -11,17 +11,17 @@
 EE559-Group47/
 ├── README.md
 ├── code/
-│ ├── Build_ch.py
-│ ├── Weibo_emoji.ipynb
-│ ├── Weibo_emoji.py
-│ ├── Weibo_emoji_check.py
-│ ├── Weibo_text.ipynb
-│ └── Weibo_text.py
-├── result/
-│ ├── result_build.csv
-│ ├── result_build.png
-│ ├── result_compare.csv
-│ └── result_compare.png
+│   ├── Build_ch.py
+│   ├── Weibo_emoji.ipynb
+│   ├── Weibo_emoji.py
+│   ├── Weibo_emoji_check.py
+│   ├── Weibo_text.ipynb
+│   └── Weibo_text.py
+└── result/
+    ├── result_build.csv
+    ├── result_build.png
+    ├── result_compare.csv
+    └── result_compare.png
 
 ---
 
