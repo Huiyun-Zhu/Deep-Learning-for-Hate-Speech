@@ -23,6 +23,8 @@ EE559-Group47/
     ├── result_build.png
     ├── result_compare.csv
     └── result_compare.png
+Report
+Slide
 ```
 
 ---
