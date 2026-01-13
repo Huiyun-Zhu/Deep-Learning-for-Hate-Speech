@@ -1,9 +1,7 @@
 # EE559 Group Mini Project – Group 47
 
-**Group Members:**  
-- Xuhang Liu  
-- Pu Zhi  
-- Huiyun Zhu  
+Detection of hate-speech plays a crucial role in improving digital environment, where complicated and diverse emoticons are often used as the cover to evil intentions. This study delves into the interaction between textual content and emojis to understand how emojis influence the interpretation of language in online discussions. By analyzing extensive datasets of text and emojis, augmented for diversity, we aim to uncover patterns in how emojis alter the connotations and contexts of written communication. We then refine algorithms based on DeBERTa for detecting and categorizing offensive content. Ultimately, our research enhances the accuracy of detecting hate-speech on Chinese media social platforms and aspires to cultivate a digital environment characterized by inclusivity, tolerance, and mutual respect, fostering healthier online communities.
+Keywords: Hate Speech, Emoji Semantics, DeBERTa Model
 
 ---
 
