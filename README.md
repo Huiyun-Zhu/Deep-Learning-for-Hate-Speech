@@ -11,24 +11,24 @@
 ```
 
 ├── EE559-Group47/All the Data 
-├── code/
+├── Code/
 │   ├── Build_ch.py
 │   ├── Weibo_emoji.ipynb
 │   ├── Weibo_emoji.py
 │   ├── Weibo_emoji_check.py
 │   ├── Weibo_text.ipynb
 │   └── Weibo_text.py
-└── result/
+└── Result/
 │    ├── result_build.csv
 │    ├── result_build.png
 │    ├── result_compare.csv
 │    └── result_compare.png
 │ 
-├── Slide
+├── Report
 │ 
-└──Report
+└── README.md
 │ 
-└──README.md
+└── Slides
 
 ```
 
