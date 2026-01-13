@@ -9,8 +9,8 @@
 
 ## 📁 Project Structure
 ```
-EE559-Group47/
-├── README.md
+
+├── EE559-Group47/All the Data 
 ├── code/
 │   ├── Build_ch.py
 │   ├── Weibo_emoji.ipynb
@@ -19,12 +19,17 @@ EE559-Group47/
 │   ├── Weibo_text.ipynb
 │   └── Weibo_text.py
 └── result/
-    ├── result_build.csv
-    ├── result_build.png
-    ├── result_compare.csv
-    └── result_compare.png
-Report
-Slide
+│    ├── result_build.csv
+│    ├── result_build.png
+│    ├── result_compare.csv
+│    └── result_compare.png
+│ 
+├── Slide
+│ 
+└──Report
+│ 
+└──README.md
+
 ```
 
 ---
